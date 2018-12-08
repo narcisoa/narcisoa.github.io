@@ -8,22 +8,22 @@ permalink: projects/uhclubr
 date: 2018-12-16
 labels:
   - Full Stack Web Development
+  - Meteor
   - Team Project
 summary: My team developed a website that ...???
 ---
-# UH Clubr
 
 <div class="ui medium rounded images">
-  <img class="ui image large" src="../images/uhclubr-homepage.png">
-  <img class="ui image large" src="../images/uhclubr-listclubs.png">
+  <img class="ui image large" src="../images/uhclubr-homepage.png style="height: 300px">
+  <img class="ui image large" src="../images/uhclubr-listclubs.png style="height: 300px"">
 </div>
 
 ### The Project
 ADD!!!
 
 <div class="ui medium rounded images">
-  <img class="ui image large" src="../images/uhclubr-greyhats.png">
-  <img class="ui image large" src="../images/uhclubr-travel2change.png">
+  <img class="ui image large" src="../images/uhclubr-greyhats.png" style="height: 300px">
+  <img class="ui image large" src="../images/uhclubr-travel2change.png" style="height: 300px">
 </div>
 
 ### Personal Contribution
