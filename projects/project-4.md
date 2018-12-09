@@ -14,8 +14,8 @@ summary: My team developed a website that ...???
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/uhclubr-homepage.png style="height: 300px">
-  <img class="ui image" src="../images/uhclubr-listclubs.png style="height: 300px">
+  <img class="ui image large" src="../images/uhclubr-homepage.png style="height: 300px">
+  <img class="ui image lgarge" src="../images/uhclubr-listclubs.png style="height: 300px">
 </div>
 
 ### The Project
