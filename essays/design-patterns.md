@@ -12,6 +12,11 @@ labels:
 
 ## Design Patterns Explained for Bridesmaids, Computer Nerds and everyone in between
 
+<div class="ui medium rounded images">
+  <img class="ui image large" src="../images/bridalteaparty.jpeg" style="height: 300px">
+  <img class="ui image large" src="../images/clubrcode" style="height: 300px">
+</div>
+
 ### Bridesmaids and Computer Nerds?
 
 Never did I imagine being 22 years old, finishing my last year of my Computer Science major and simultaneously planning my best friend’s ‘English Afternoon Tea party’ themed Bridal Shower. These two personas are the most polar opposite and mutually exclusive entities out there, yet somehow I have found myself applying the same lessons to both roles. What could planning a  ‘English Afternoon Tea party’ themed Bridal Shower have in common with software development? Actually— Design Patterns. 
