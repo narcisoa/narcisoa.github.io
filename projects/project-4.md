@@ -10,7 +10,7 @@ labels:
   - Full Stack Web Development
   - Meteor
   - Team Project
-summary: My team developed a website that ...???
+summary: My team developed a website that provides a fun, visual platform for students to get to know clubs on campus and find ones that match with their interests and personality.
 ---
 
 <div class="ui medium rounded images">
