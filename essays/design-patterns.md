@@ -14,7 +14,7 @@ labels:
 
 <div class="ui medium rounded images">
   <img class="ui image large" src="../images/bridalteaparty.jpeg" style="height: 300px">
-  <img class="ui image large" src="../images/clubrcode" style="height: 300px">
+  <img class="ui image large" src="../images/clubrcode.png" style="height: 300px">
 </div>
 
 ### Bridesmaids and Computer Nerds?
