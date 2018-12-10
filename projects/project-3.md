@@ -14,7 +14,7 @@ summary: Summer job as the Administrator for AccesSurf.
 ---
 <div class="ui medium rounded images">
   <img class="ui image large" src="../images/accessurf-pic.jpg" style="height: 300px">
-  <img class="ui image large" src="../images/accessurf-eg5.jpg" style="height: 300px, width: 450px">
+  <img class="ui image large" src="../images/accessurf-eg5.jpg" style="width: 450px">
 </div>
 
 <a href="https://www.accessurf.org/">AccesSurf Hawaii</a> is a non-profit that empowers people with disabilities through accessible water programs. Last summer, I worked as an intern and this summer, I worked as the Administrator of the organization. I had the honor of working in a small, tight-knit office alongside the program coordinator, executive director and hundreds of dedicated volunteers who donate their time to our cause and care a lot about the success of our programs and helping others.
